@@ -1,6 +1,10 @@
-# Notes, News, Opinions
+# Notes, Updates, Opinions
 
-creating blog
+Sailing
+
+Coding
+
+Bitcoin
 
 https://github.com/robotamer/stuff
 
