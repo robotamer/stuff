@@ -1,10 +1,18 @@
 # Notes, Updates, Opinions
 
 Sailing
+- Maintenance
+- Travel
 
 Coding
+- Go
+- JavaScript
 
-Bitcoin
+Crypto
+- Bitcoin
+- Nano
+- Dot
+- Ethereum
 
 https://github.com/robotamer/stuff
 
