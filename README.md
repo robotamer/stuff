@@ -1,2 +1,7 @@
-# stuff
-Notes, News, Opinions
+# Notes, News, Opinions
+
+creating blog
+
+https://github.com/robotamer/stuff
+
+
